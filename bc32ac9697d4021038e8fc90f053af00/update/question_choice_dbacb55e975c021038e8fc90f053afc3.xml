@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="What state do you currently reside in?">214c7d1e975c021038e8fc90f053af2a</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 23:34:26</sys_created_on>
+        <sys_id>dbacb55e975c021038e8fc90f053afc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 23:34:26</sys_updated_on>
+        <text>Maryland</text>
+        <value>maryland</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=dbacb55e975c021038e8fc90f053afc3"/>
+</record_update>
