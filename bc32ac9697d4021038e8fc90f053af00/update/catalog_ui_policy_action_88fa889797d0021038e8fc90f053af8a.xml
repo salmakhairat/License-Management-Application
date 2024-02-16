@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="License Form">65b03112975c021038e8fc90f053af13</catalog_item>
+        <catalog_variable>IO:105a841797d0021038e8fc90f053af69</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 17:51:25</sys_created_on>
+        <sys_id>88fa889797d0021038e8fc90f053af8a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>have_you_had_your_learner_s_permit_for_18_months_or_more</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_88fa889797d0021038e8fc90f053af8a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-16 17:51:48</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'have_you_had_your_learner_s_permit_for_18_months_or_more' mandatory &amp; visible depending on 'do_you_have_a_maryland_l'">52da805797d0021038e8fc90f053af27</ui_policy>
+        <variable>have_you_had_your_learner_s_permit_for_18_months_or_more</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
