@@ -9,18 +9,18 @@
         <order>100</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-02-16 17:53:27</sys_created_on>
-        <sys_id>e16b08d797d0021038e8fc90f053af01</sys_id>
+        <sys_created_on>2024-02-16 17:56:12</sys_created_on>
+        <sys_id>ce0cc41b97d0021038e8fc90f053afc1</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>have_you_had_your_learner_s_permit_for_18_months_or_more</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
-        <sys_update_name>catalog_ui_policy_action_e16b08d797d0021038e8fc90f053af01</sys_update_name>
+        <sys_update_name>catalog_ui_policy_action_ce0cc41b97d0021038e8fc90f053afc1</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-02-16 17:55:24</sys_updated_on>
+        <sys_updated_on>2024-02-16 18:05:40</sys_updated_on>
         <table/>
-        <ui_policy display_value="Make 'have_you_had_your_learner_s_permit_for_18_months_or_more' mandatory &amp; visible depending on 'do_you_have_a_maryland_l'">6d6bc4d797d0021038e8fc90f053affe</ui_policy>
+        <ui_policy display_value="Make 'have_you_had_your_learner_s_permit_for_18_months_or_more' mandatory &amp; visible depending on 'do_you_have_a_maryland_l'">ca0cc41b97d0021038e8fc90f053afbf</ui_policy>
         <variable>have_you_had_your_learner_s_permit_for_18_months_or_more</variable>
         <variable_set/>
         <visible>true</visible>
