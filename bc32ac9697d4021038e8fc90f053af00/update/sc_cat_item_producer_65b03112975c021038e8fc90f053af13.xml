@@ -24,14 +24,14 @@
         <ignore_price>true</ignore_price>
         <image/>
         <location/>
-        <mandatory_attachment>true</mandatory_attachment>
+        <mandatory_attachment>false</mandatory_attachment>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
         <name>License Form</name>
-        <no_attachment_v2>false</no_attachment_v2>
+        <no_attachment_v2>true</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
         <no_delivery_time_v2>false</no_delivery_time_v2>
@@ -94,8 +94,8 @@
         <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
         <sys_update_name>sc_cat_item_producer_65b03112975c021038e8fc90f053af13</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-02-16 18:20:16</sys_updated_on>
-        <table_name>x_1318047_license_license_form</table_name>
+        <sys_updated_on>2024-02-21 15:36:27</sys_updated_on>
+        <table_name>sn_customerservice_case</table_name>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>

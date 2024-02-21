@@ -8,7 +8,7 @@
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-02-16 18:12:33</sys_created_on>
+        <sys_created_on>2024-02-21 15:35:45</sys_created_on>
         <sys_id>9ff7351a975c021038e8fc90f053af21</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Maryland</sys_name>
@@ -17,9 +17,9 @@
         <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
         <sys_update_name>question_choice_9ff7351a975c021038e8fc90f053af21</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-02-16 18:20:14</sys_updated_on>
+        <sys_updated_on>2024-02-21 15:36:24</sys_updated_on>
         <text>Maryland</text>
-        <value>maryland</value>
+        <value>Maryland</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=9ff7351a975c021038e8fc90f053af21"/>
     <fx_price action="INSERT_OR_UPDATE">
