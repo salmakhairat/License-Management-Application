@@ -75,7 +75,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-02-22 15:48:30</sys_created_on>
+        <sys_created_on>2024-02-22 15:59:07</sys_created_on>
         <sys_id>c95aeab69710021038e8fc90f053afd7</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Are you 18 years or older?</sys_name>
@@ -84,7 +84,7 @@
         <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
         <sys_update_name>item_option_new_c95aeab69710021038e8fc90f053afd7</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-02-22 15:57:59</sys_updated_on>
+        <sys_updated_on>2024-02-22 16:02:54</sys_updated_on>
         <table/>
         <tooltip/>
         <type>1</type>
