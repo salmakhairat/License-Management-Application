@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="License Form">65b03112975c021038e8fc90f053af13</catalog_item>
+        <catalog_variable>IO:f3ba55389760021038e8fc90f053afbb</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-22 15:54:28</sys_created_on>
+        <sys_id>d1b9a68597a0021038e8fc90f053af68</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1318047_license_identity_attachment</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d1b9a68597a0021038e8fc90f053af68</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-22 15:57:55</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'x_1318047_license_identity_attachment' hidden depending on 'x_1318047_license_age'">01a9e28597a0021038e8fc90f053afe7</ui_policy>
+        <variable>x_1318047_license_identity_attachment</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>
