@@ -2,40 +2,40 @@
     <question_choice action="INSERT_OR_UPDATE">
         <inactive>false</inactive>
         <misc>0</misc>
-        <order>100</order>
+        <order>200</order>
         <published_ref/>
-        <question display_value="Are you a US citizen or permanent resident with lawful status in the United States?">7018ee369710021038e8fc90f053af41</question>
+        <question display_value="Sex">a03022be976c021038e8fc90f053afb0</question>
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-28 18:57:22</sys_created_on>
-        <sys_id>f14866b69710021038e8fc90f053af57</sys_id>
+        <sys_id>9d702abe976c021038e8fc90f053afe4</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>Yes</sys_name>
+        <sys_name>F</sys_name>
         <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
         <sys_policy/>
         <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
-        <sys_update_name>question_choice_f14866b69710021038e8fc90f053af57</sys_update_name>
+        <sys_update_name>question_choice_9d702abe976c021038e8fc90f053afe4</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2024-02-28 18:59:45</sys_updated_on>
-        <text>Yes</text>
-        <value>yes</value>
+        <text>F</text>
+        <value>F</value>
     </question_choice>
-    <fx_price action="delete_multiple" query="id=f14866b69710021038e8fc90f053af57"/>
+    <fx_price action="delete_multiple" query="id=9d702abe976c021038e8fc90f053afe4"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>misc</field>
-        <id>f14866b69710021038e8fc90f053af57</id>
+        <id>9d702abe976c021038e8fc90f053afe4</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-02-15 16:02:06</sys_created_on>
-        <sys_id>3058a6b69710021038e8fc90f053af46</sys_id>
+        <sys_created_on>2024-02-28 01:43:35</sys_created_on>
+        <sys_id>fb70eabe976c021038e8fc90f053af3c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-15 16:02:06</sys_updated_on>
+        <sys_updated_on>2024-02-28 01:43:35</sys_updated_on>
         <table>question_choice</table>
         <type>calculated</type>
     </fx_price>
@@ -43,16 +43,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_misc</field>
-        <id>f14866b69710021038e8fc90f053af57</id>
+        <id>9d702abe976c021038e8fc90f053afe4</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-02-15 16:02:06</sys_created_on>
-        <sys_id>b458a6b69710021038e8fc90f053af45</sys_id>
+        <sys_created_on>2024-02-28 01:43:35</sys_created_on>
+        <sys_id>7370eabe976c021038e8fc90f053af3c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-15 16:02:06</sys_updated_on>
+        <sys_updated_on>2024-02-28 01:43:35</sys_updated_on>
         <table>question_choice</table>
         <type>calculated</type>
     </fx_price>
