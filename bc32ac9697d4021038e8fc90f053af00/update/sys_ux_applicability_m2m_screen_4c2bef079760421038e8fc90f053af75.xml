@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="GSM - Internal Agency Agent">2d52e9f8b71011106c0c49bd2e11a937</applicability>
+        <order>0</order>
+        <screen display_value="CSM License Agents Landing Page">8049eb839760421038e8fc90f053afcd</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-29 01:48:07</sys_created_on>
+        <sys_id>4c2bef079760421038e8fc90f053af75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_4c2bef079760421038e8fc90f053af75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 01:48:07</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

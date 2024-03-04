@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>empty</glyph>
+        <id/>
+        <order>100000</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">68df65249768021038e8fc90f053af4e</sp_column>
+        <sp_widget display_value="Announcements">94c300c7e777320075c2a117c2f6a9e7</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 22:24:36</sys_created_on>
+        <sys_id>a0df65249768021038e8fc90f053af53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Announcements</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sp_instance_a0df65249768021038e8fc90f053af53</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 22:24:36</sys_updated_on>
+        <title>Announcements</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "Announcements",
+		"displayValue": "Announcements"
+	},
+	"glyph": {
+		"value": "empty",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "",
+		"displayValue": ""
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": 5,
+		"displayValue": "5"
+	},
+	"view_all_page": {
+		"value": "ecc828d3e733320075c2a117c2f6a91f",
+		"displayValue": "announcements"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=a0df65249768021038e8fc90f053af53"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>sp_instance_a0df65249768021038e8fc90f053af53</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;empty&lt;/glyph&gt;&lt;id/&gt;&lt;order&gt;100000&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;68df65249768021038e8fc90f053af4e&lt;/sp_column&gt;&lt;sp_widget display_value="Announcements"&gt;94c300c7e777320075c2a117c2f6a9e7&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-02-20 22:24:36&lt;/sys_created_on&gt;&lt;sys_id&gt;a0df65249768021038e8fc90f053af53&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Announcements&lt;/sys_name&gt;&lt;sys_package display_value="License Management" source="x_1318047_license"&gt;bc32ac9697d4021038e8fc90f053af00&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="License Management"&gt;bc32ac9697d4021038e8fc90f053af00&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_a0df65249768021038e8fc90f053af53&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-02-20 22:24:36&lt;/sys_updated_on&gt;&lt;title&gt;Announcements&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "Announcements",
+		"displayValue": "Announcements"
+	},
+	"glyph": {
+		"value": "empty",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "",
+		"displayValue": ""
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": 5,
+		"displayValue": "5"
+	},
+	"view_all_page": {
+		"value": "ecc828d3e733320075c2a117c2f6a91f",
+		"displayValue": "announcements"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a0df65249768021038e8fc90f053af53"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1080827706</payload_hash>
+        <record_name>Announcements</record_name>
+        <reverted_from/>
+        <source>7032ac9697d4021038e8fc90f053af03</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 22:24:36</sys_created_on>
+        <sys_id>e4df65249768021038e8fc90f053af61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc89ef1b20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 22:24:36</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>2cdf6524b4680210cefc6025dfdb0160</update_guid>
+        <update_guid_history>2cdf6524b4680210cefc6025dfdb0160:1080827706</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Announcements">e8f13de49768021038e8fc90f053afd3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 22:33:53</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>1649f57fae1146838c1ebc5bbed1d3d1</sys_id>
+        <sys_metadata>a0df65249768021038e8fc90f053af53</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Announcements</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>sp_instance_a0df65249768021038e8fc90f053af53</sys_update_name>
+        <sys_update_version display_value="sp_instance_a0df65249768021038e8fc90f053af53">e4df65249768021038e8fc90f053af61</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 22:33:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

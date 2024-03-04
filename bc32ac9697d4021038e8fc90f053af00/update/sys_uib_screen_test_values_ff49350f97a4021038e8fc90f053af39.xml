@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "table" : "sn_customerservice_case",
+  "sysId" : "121d3a8d97e0021038e8fc90f053af17"
+}</macroponent_config>
+        <screen display_value="CSM Record Gov Default">f749f9cb97a4021038e8fc90f053af5e</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-28 17:30:52</sys_created_on>
+        <sys_id>ff49350f97a4021038e8fc90f053af39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_ff49350f97a4021038e8fc90f053af39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-28 17:30:52</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

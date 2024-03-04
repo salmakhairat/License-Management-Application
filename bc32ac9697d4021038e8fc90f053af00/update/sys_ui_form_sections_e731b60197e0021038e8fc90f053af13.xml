@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e731b60197e0021038e8fc90f053af13" sys_domain="global" table="x_1318047_license_license_form" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e731b60197e0021038e8fc90f053af20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1318047_license_license_form" name="x_1318047_license_license_form" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">e731b60197e0021038e8fc90f053af13</sys_ui_form>
+            <sys_ui_section caption="Description" display_value="Description" name="x_1318047_license_license_form" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">e331b60197e0021038e8fc90f053af1d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f31b60197e0021038e8fc90f053af1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1318047_license_license_form" name="x_1318047_license_license_form" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">e731b60197e0021038e8fc90f053af13</sys_ui_form>
+            <sys_ui_section caption="User Information" display_value="User Information" name="x_1318047_license_license_form" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">2f31b60197e0021038e8fc90f053af15</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1318047_license_license_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e731b60197e0021038e8fc90f053af13</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1318047_license_license_form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e731b60197e0021038e8fc90f053af13</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Complaint" name="Complaint">ac02bca09724021038e8fc90f053af25</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

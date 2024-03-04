@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">f430b99e971c021038e8fc90f053af6c</sp_column>
+        <sp_widget display_value="Related Catalog Item">806f40990fab2300b7b2c8337a767e6f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 23:46:42</sys_created_on>
+        <sys_id>4f7ff112979c021038e8fc90f053af3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sp_instance_4f7ff112979c021038e8fc90f053af3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 23:46:42</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=4f7ff112979c021038e8fc90f053af3e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>sp_instance_4f7ff112979c021038e8fc90f053af3e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="1">f430b99e971c021038e8fc90f053af6c</sp_column><sp_widget display_value="Related Catalog Item">806f40990fab2300b7b2c8337a767e6f</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-13 23:46:42</sys_created_on><sys_id>4f7ff112979c021038e8fc90f053af3e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package><sys_policy/><sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope><sys_update_name>sp_instance_4f7ff112979c021038e8fc90f053af3e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-13 23:46:42</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=4f7ff112979c021038e8fc90f053af3e"/></record_update>]]></payload>
+        <payload_hash>-329912454</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7032ac9697d4021038e8fc90f053af03</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 23:46:42</sys_created_on>
+        <sys_id>077f7d12979c021038e8fc90f053aff1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18da4dd985c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 23:46:42</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>4b7f7d12829c0210e0521b3958f49af0</update_guid>
+        <update_guid_history>4b7f7d12829c0210e0521b3958f49af0:-329912454</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">abef3dde975c021038e8fc90f053afc7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 23:48:38</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>0144edcd060e4b5384229831a9e916d1</sys_id>
+        <sys_metadata>4f7ff112979c021038e8fc90f053af3e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>sp_instance_4f7ff112979c021038e8fc90f053af3e</sys_update_name>
+        <sys_update_version display_value="sp_instance_4f7ff112979c021038e8fc90f053af3e">077f7d12979c021038e8fc90f053aff1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 23:48:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="License Agent">7bdeb41a0b580210481be566df238c28</dashboard>
+        <group/>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 19:04:27</sys_created_on>
+        <sys_id>70eef41a9758021038e8fc90f053af63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7bdeb41a0b580210481be566df238c28</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>par_dashboard_permission_70eef41a9758021038e8fc90f053af63</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 19:04:27</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

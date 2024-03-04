@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_1318047_license_dob" label="Date of Birth" language="en" table="sn_customerservice_case">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_dob</element>
+            <help/>
+            <hint/>
+            <label>Date of Birth</label>
+            <language>en</language>
+            <name>sn_customerservice_case</name>
+            <plural>Date of Births</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 20:20:57</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Date of Birth</sys_name>
+            <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+            <sys_update_name>sys_documentation_sn_customerservice_case_x_1318047_license_dob_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 17:42:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

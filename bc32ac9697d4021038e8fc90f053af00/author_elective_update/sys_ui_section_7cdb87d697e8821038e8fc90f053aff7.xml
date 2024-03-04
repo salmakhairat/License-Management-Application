@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Constituent Information" section_id="7cdb87d697e8821038e8fc90f053aff7" sys_domain="global" table="sn_gsm_government_service_case" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_user</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>d26fec2697a0c21038e8fc90f053affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_citizen</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>d66fec2697a0c21038e8fc90f053affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_age</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>da6fec2697a0c21038e8fc90f053affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_age_attachment</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>de6fec2697a0c21038e8fc90f053affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_residency_attachment</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>d26fec2697a0c21038e8fc90f053afff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_identity_attachment</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>d66fec2697a0c21038e8fc90f053afff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>da6fec2697a0c21038e8fc90f053afff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_state_chosen</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>de6fec2697a0c21038e8fc90f053afff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_dob</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>d26f206697a0c21038e8fc90f053af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_permit</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>d66f206697a0c21038e8fc90f053af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_permit_attachment</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+            <sys_id>da6f206697a0c21038e8fc90f053af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Constituent Information</caption>
+            <header>false</header>
+            <name>sn_gsm_government_service_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 15:35:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7cdb87d697e8821038e8fc90f053aff7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_gsm_government_service_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+            <sys_update_name>sys_ui_section_7cdb87d697e8821038e8fc90f053aff7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 15:35:56</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">3aa778757db1311076daf29f52070de0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>sys_ui_section_7cdb87d697e8821038e8fc90f053aff7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Constituent Information" section_id="7cdb87d697e8821038e8fc90f053aff7" sys_domain="global" table="sn_gsm_government_service_case" version="3" view="workspace"><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1318047_license_user</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>d26fec2697a0c21038e8fc90f053affe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1318047_license_citizen</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>d66fec2697a0c21038e8fc90f053affe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1318047_license_age</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>da6fec2697a0c21038e8fc90f053affe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1318047_license_age_attachment</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>de6fec2697a0c21038e8fc90f053affe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1318047_license_residency_attachment</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>d26fec2697a0c21038e8fc90f053afff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1318047_license_identity_attachment</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>d66fec2697a0c21038e8fc90f053afff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>da6fec2697a0c21038e8fc90f053afff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1318047_license_state_chosen</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>de6fec2697a0c21038e8fc90f053afff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1318047_license_dob</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>d26f206697a0c21038e8fc90f053af00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1318047_license_permit</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>d66f206697a0c21038e8fc90f053af00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1318047_license_permit_attachment</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 22:51:01</sys_created_on><sys_id>da6f206697a0c21038e8fc90f053af00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Constituent Information" display_value="Constituent Information" name="sn_gsm_government_service_case" sys_domain="global" view="3aa778757db1311076daf29f52070de0">7cdb87d697e8821038e8fc90f053aff7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 22:51:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Constituent Information</caption><header>false</header><name>sn_gsm_government_service_case</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 15:35:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7cdb87d697e8821038e8fc90f053aff7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_gsm_government_service_case</sys_name><sys_overrides/><sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package><sys_policy/><sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope><sys_update_name>sys_ui_section_7cdb87d697e8821038e8fc90f053aff7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 15:35:56</sys_updated_on><sys_user/><title>false</title><view display_value="Workspace" name="workspace">3aa778757db1311076daf29f52070de0</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>255378392</payload_hash>
+        <record_name>Government Service Case</record_name>
+        <reverted_from/>
+        <source>25b18a2c97a8021038e8fc90f053af6a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-26 22:51:01</sys_created_on>
+        <sys_id>126f206697a0c21038e8fc90f053af1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18de79d4a030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-26 22:51:01</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>d66f2066d2a0c2105525fcdd402a761b</update_guid>
+        <update_guid_history>d66f2066d2a0c2105525fcdd402a761b:255378392,d674a8a60660c210f357d8328b50a113:-216426012,45dbc7d6dde88210b02d3cd31392ad4a:1558747244</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-26 22:54:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>656b0f9ca7e147009d67e7aae95f8124</sys_id>
+        <sys_metadata>7cdb87d697e8821038e8fc90f053aff7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Constituent Information</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent display_value="Sn Gsm Government Service Case">9f1489289764021038e8fc90f053af86</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>sys_ui_section_7cdb87d697e8821038e8fc90f053aff7</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_7cdb87d697e8821038e8fc90f053aff7">126f206697a0c21038e8fc90f053af1c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-26 22:54:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="License Management">6952641a97d4021038e8fc90f053af87</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_csm_workspace_license_case</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 16:59:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e552641a97d4021038e8fc90f053af8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sys_app_module_e552641a97d4021038e8fc90f053af8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 16:59:44</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>sys_app_module_e552641a97d4021038e8fc90f053af8d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="License Management">6952641a97d4021038e8fc90f053af87</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sn_csm_workspace_license_case</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-13 16:59:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e552641a97d4021038e8fc90f053af8d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package><sys_policy/><sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope><sys_update_name>sys_app_module_e552641a97d4021038e8fc90f053af8d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-13 16:59:44</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1665838147</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>7032ac9697d4021038e8fc90f053af03</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 16:59:44</sys_created_on>
+        <sys_id>2552641a97d4021038e8fc90f053af8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18da369001b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 16:59:44</sys_updated_on>
+        <type>Module</type>
+        <update_guid>6952641a5ad40210f3c2e3732ae10f8e</update_guid>
+        <update_guid_history>6952641a5ad40210f3c2e3732ae10f8e:1665838147</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">53156cda97d4021038e8fc90f053af7c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 17:11:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>9aacb5ee8ea24dc0959ca3bd42ffc400</sys_id>
+        <sys_metadata>e552641a97d4021038e8fc90f053af8d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>sys_app_module_e552641a97d4021038e8fc90f053af8d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e552641a97d4021038e8fc90f053af8d">2552641a97d4021038e8fc90f053af8f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 17:11:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

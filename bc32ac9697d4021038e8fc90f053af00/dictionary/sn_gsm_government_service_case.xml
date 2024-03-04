@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true" audit="true" db_object_id="9f1489289764021038e8fc90f053af86" extends="sn_customerservice_case" label="Government Service Case" max_length="40" name="sn_gsm_government_service_case" type="collection">
+        <element label="Height" max_length="6" name="x_1318047_license_height" type="string"/>
+        <element choice="1" label="Sex" max_length="40" name="x_1318047_license_sex" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female" value="Female"/>
+                <element inactive_on_update="false" label="Male" value="Male"/>
+            </choice>
+        </element>
+        <element label="Weight" max_length="40" name="x_1318047_license_weight" type="integer"/>
+    </element>
+</database>

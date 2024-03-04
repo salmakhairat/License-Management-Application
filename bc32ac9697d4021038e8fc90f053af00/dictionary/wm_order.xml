@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="offline_timestamp_field=offline_device_timestamp" audit="true" db_object_id="ed7c049a9750021038e8fc90f053afeb" extends="sm_order" label="Work Order" max_length="40" name="wm_order" text_index="true" type="collection">
+        <element attributes="encode_utf8=false,readonly_clickthrough=true" hint="Service Organization" label="Service Organization" max_length="32" name="service_organization" reference="sn_customer_service_organization" type="reference"/>
+    </element>
+</database>

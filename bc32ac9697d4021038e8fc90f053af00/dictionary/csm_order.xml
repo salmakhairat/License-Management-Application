@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9dac445e9750021038e8fc90f053af48" label="Order" max_length="40" name="csm_order" text_index="true" type="collection">
+        <element attributes="encode_utf8=false,readonly_clickthrough=true" hint="Service Organization" label="Service Organization" max_length="32" name="service_organization" reference="sn_customer_service_organization" type="reference"/>
+        <index name="index">
+            <element name="service_organization"/>
+        </index>
+    </element>
+</database>

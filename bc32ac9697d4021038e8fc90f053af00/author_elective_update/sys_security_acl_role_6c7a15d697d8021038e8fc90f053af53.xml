@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-13 21:04:52</sys_created_on>
+        <sys_id>6c7a15d697d8021038e8fc90f053af53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1318047_license.license_constituent</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_security_acl/>
+        <sys_update_name>sys_security_acl_role_6c7a15d697d8021038e8fc90f053af53</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-13 21:04:52</sys_updated_on>
+        <sys_user_role display_value="x_1318047_license.license_constituent" name="x_1318047_license.license_constituent">1e2c60169718021038e8fc90f053afa9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>sys_security_acl_role_6c7a15d697d8021038e8fc90f053af53</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-02-13 21:04:52</sys_created_on><sys_id>6c7a15d697d8021038e8fc90f053af53</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1318047_license.license_constituent</sys_name><sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package><sys_policy/><sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope><sys_security_acl/><sys_update_name>sys_security_acl_role_6c7a15d697d8021038e8fc90f053af53</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-02-13 21:04:52</sys_updated_on><sys_user_role display_value="x_1318047_license.license_constituent" name="x_1318047_license.license_constituent">1e2c60169718021038e8fc90f053afa9</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>255123787</payload_hash>
+        <record_name>.x_1318047_license.license_constituent</record_name>
+        <reverted_from/>
+        <source>7032ac9697d4021038e8fc90f053af03</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-13 21:04:52</sys_created_on>
+        <sys_id>6c7a15d697d8021038e8fc90f053af56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18da44970b30000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-13 21:04:52</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a07a15d681d80210903e1c704fa9b356</update_guid>
+        <update_guid_history>a07a15d681d80210903e1c704fa9b356:255123787</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1318047_license.license_constituent">bd3758b697e0021038e8fc90f053af01</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 15:43:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0c4f9ab441284134aef750a01422df24</sys_id>
+        <sys_metadata>6c7a15d697d8021038e8fc90f053af53</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1318047_license.license_constituent</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_6c7a15d697d8021038e8fc90f053af53</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_6c7a15d697d8021038e8fc90f053af53">6c7a15d697d8021038e8fc90f053af56</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 15:43:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

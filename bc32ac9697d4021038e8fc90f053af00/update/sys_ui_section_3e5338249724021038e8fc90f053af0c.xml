@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Description" section_id="3e5338249724021038e8fc90f053af0c" sys_domain="global" table="sn_customerservice_case" version="3" view="Complaint">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-21 20:25:53</sys_created_on>
+            <sys_id>6f3e5eb097a4021038e8fc90f053af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Description" display_value="Description" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">3e5338249724021038e8fc90f053af0c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-21 20:25:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-21 20:25:53</sys_created_on>
+            <sys_id>633e5eb097a4021038e8fc90f053af8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Description" display_value="Description" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">3e5338249724021038e8fc90f053af0c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-21 20:25:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Description</caption>
+            <header>false</header>
+            <name>sn_customerservice_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e5338249724021038e8fc90f053af0c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>sn_customerservice_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+            <sys_update_name>sys_ui_section_3e5338249724021038e8fc90f053af0c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-21 20:25:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Complaint" name="Complaint">ac02bca09724021038e8fc90f053af25</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

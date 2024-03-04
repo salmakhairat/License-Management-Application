@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="Appointments">5f0a5db69728021038e8fc90f053afb9</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 20:44:43</sys_created_on>
+        <sys_id>391c19fa9728021038e8fc90f053af1b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sn_walkup_variable_set.Appt.</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>io_set_item_391c19fa9728021038e8fc90f053af1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 20:44:43</sys_updated_on>
+        <variable_set display_value="sn_walkup_variable_set">1df9da3ab3402300eda5a72256a8dcaa</variable_set>
+    </io_set_item>
+</record_update>

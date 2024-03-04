@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a624e49a97d4021038e8fc90f053afe1" extends="sc_request" label="License Request" max_length="40" name="x_1318047_license_license_request" text_index="true" type="collection"/>
+</database>

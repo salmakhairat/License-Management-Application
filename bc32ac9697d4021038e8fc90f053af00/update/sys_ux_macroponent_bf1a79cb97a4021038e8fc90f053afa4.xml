@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>macroponent</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "playbook_modals",
+  "elementLabel" : "Playbook Modals",
+  "propertyValues" : { },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "9e9a9999bc08c532cf101d791dc31667",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "preset" : {
+    "controllerElementId" : "playbook_custom_layout",
+    "disabledEventTargetIds" : [ ],
+    "id" : "32d3bef1efa111dd6a91ed7edae7f04d"
+  },
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+}, {
+  "elementId" : "playbook_stage_picker",
+  "elementLabel" : "Playbook Stage Picker",
+  "propertyValues" : {
+    "orientation" : {
+      "type" : "JSON_LITERAL",
+      "value" : "horizontal"
+    },
+    "maxVisibleStages" : {
+      "type" : "JSON_LITERAL",
+      "value" : 5
+    },
+    "daClientActionContract" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "07b507b07c7b4704c834d99cf289892f",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "preset" : {
+    "controllerElementId" : "playbook_custom_layout",
+    "disabledEventTargetIds" : [ ],
+    "id" : "eee31aecb3776650ab1e380b694c7f51"
+  },
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+}, {
+  "elementId" : "playbook_picker_label",
+  "elementLabel" : "Playbook Picker Label",
+  "propertyValues" : {
+    "truncated" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "label" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "Playbook",
+        "comment" : ""
+      }
+    },
+    "value" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "",
+        "comment" : ""
+      }
+    },
+    "reversed" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "bb63b710d208796b7ceaab7812bddef1",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+}, {
+  "elementId" : "playbook_picker",
+  "elementLabel" : "Playbook Picker",
+  "propertyValues" : {
+    "search" : {
+      "type" : "JSON_LITERAL",
+      "value" : "none"
+    },
+    "icon" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "disabled" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "opened" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "tooltipContent" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "Selected Playbook",
+        "comment" : ""
+      }
+    },
+    "panelFitProps" : {
+      "type" : "JSON_LITERAL",
+      "value" : { }
+    },
+    "configAria" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "hideCaret" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "hideLabel" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    }
+  },
+  "eventMappings" : [ {
+    "eventMappingId" : "cljjxorkyaaaaaaaaadvmiieesgjbsjje",
+    "isConfiguration" : false,
+    "offRowStorageId" : null,
+    "sourceEventApiName" : "sn_dropdown.NOW_DROPDOWN#ITEM_CLICKED",
+    "sourceEventCorrelationId" : null,
+    "sourceEventDefinition" : {
+      "apiName" : "sn_dropdown.NOW_DROPDOWN#ITEM_CLICKED",
+      "id" : null,
+      "type" : "UXEVENT"
+    },
+    "sourceEventSysId" : null,
+    "targets" : [ {
+      "broker" : null,
+      "clientScript" : null,
+      "conditional" : null,
+      "declarativeAction" : null,
+      "event" : {
+        "apiName" : "sn_playbook_exp.CONTENT_UPDATED_RELAY_ed2063a3077211106670d9630ad30083",
+        "payload" : {
+          "type" : "CLIENT_TRANSFORM_SCRIPT",
+          "script" : {
+            "apiVersion" : "1.0.0",
+            "controllerElementId" : null,
+            "inlineScript" : "/**\n * @param {params} params\n * @param {api} params.api\n * @param {any} params.event\n */\nfunction evaluateEvent({\n    api,\n    event\n}) {\n    const {\n        selectedStage,\n        selectedActivity,\n        ...props\n    } = api.context.props;\n\n    return {\n        params: { ...props,\n            selectedPlaybook: event.payload.item.id\n        }\n    };\n}",
+            "scriptSysId" : null,
+            "target" : null
+          }
+        },
+        "sysId" : "ac40ef63077211106670d9630ad3002c"
+      },
+      "operation" : null,
+      "targetId" : "cljjxqijjwzaaccibddbhhuccpkdndhhm",
+      "type" : "EVENT"
+    } ]
+  } ],
+  "slot" : null,
+  "definition" : {
+    "id" : "22c67d9a1e515fef66442e1469bed3a2",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "preset" : {
+    "controllerElementId" : "playbook_custom_layout",
+    "disabledEventTargetIds" : [ ],
+    "id" : "a41afa67e42b9d30cff2bc8170b6eb5c"
+  },
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+}, {
+  "elementId" : "playbook_activity_viewer",
+  "elementLabel" : "Playbook Activity Viewer",
+  "propertyValues" : {
+    "activityView" : {
+      "type" : "JSON_LITERAL",
+      "value" : "stacked"
+    },
+    "daClientActionContract" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "enableFullWidthCards" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "showFilteredCount" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "9962aa7c77c9e928fe1cda51fcda7f2e",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "preset" : {
+    "controllerElementId" : "playbook_custom_layout",
+    "disabledEventTargetIds" : [ ],
+    "id" : "b65b39aad0ea8e534bea29391805a6cf"
+  },
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ {
+  "cachePolicy" : null,
+  "definition" : {
+    "id" : "b47c9480075111106670d9630ad300fe",
+    "type" : "CONTROLLER"
+  },
+  "dependencies" : {
+    "record" : "record_1"
+  },
+  "elementId" : "playbook_custom_layout",
+  "elementLabel" : "Playbook Custom Layout",
+  "eventMappings" : [ ],
+  "inputValues" : {
+    "inputParentSysId" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "sysId" ],
+        "category" : "props"
+      }
+    },
+    "inputParentTable" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "table" ],
+        "category" : "props"
+      }
+    },
+    "inputPlaybookExperience" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "experience" ],
+        "category" : "props"
+      }
+    },
+    "inputRecordGeneratorQuery" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "inputSelectedPlaybookContextId" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "inputSelectedStageContextId" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "inputSelectedActivityContextId" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    }
+  },
+  "readEvaluationMode" : "EAGER"
+}, {
+  "cachePolicy" : null,
+  "definition" : {
+    "id" : "029f04e053610110ac9bddeeff7b1294",
+    "type" : "CONTROLLER"
+  },
+  "dependencies" : { },
+  "elementId" : "record_1",
+  "elementLabel" : "Record 1",
+  "eventMappings" : [ ],
+  "inputValues" : {
+    "inputTable" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "table" ],
+        "category" : "props"
+      }
+    },
+    "inputSysId" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "sysId" ],
+        "category" : "props"
+      }
+    },
+    "inputQuery" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "view" : {
+      "type" : "JSON_LITERAL",
+      "value" : "default view"
+    },
+    "forcedViewName" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "detailsContext" : {
+      "type" : "JSON_LITERAL",
+      "value" : { }
+    },
+    "activityLogs" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "inputExtraParams" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "screen" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "fields" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "userPrefs" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "selectedTabIndex" : {
+      "type" : "JSON_LITERAL",
+      "value" : 0
+    }
+  },
+  "readEvaluationMode" : "EAGER"
+} ]</data>
+        <description/>
+        <dispatched_events>ac40ef63077211106670d9630ad3002c</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"element_id":"playbook_modals","styles":{"flex":"0 0 auto"}},{"element_id":"playbook_picker_label","styles":{"margin":"0","margin-left":"var(--now-static-space--xl)","margin-top":"var(--now-static-space--lg)","flex":"0 0 auto"}},{"element_id":"playbook_picker","styles":{"width":"fit-content","margin":"0","margin-left":"var(--now-static-space--xl)","flex":"0 0 auto"}},{"element_id":"playbook_stage_picker","styles":{}},{"element_id":"playbook_activity_viewer","styles":{"border-color":"RGB(var(--now-color--neutral-5))","border-width":"var(--now-static-space--xxs)","border-style":"id","border-radius":"0"}}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"position":"relative","flex-direction":"column","height":"100vh","display":"flex","align-items":"stretch","justify-content":"flex-start","gap":"0","border-color":"RGB(var(--now-color--neutral-5))","border-width":"var(--now-static-space--xxs)","border-style":"id","border-radius":"4px"},
+    "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+    "type" : "flex"
+  },
+  "version" : "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>License Agent - License</name>
+        <output_prop_mapping/>
+        <props>[ {
+  "name" : "table",
+  "label" : "Table",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : "",
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "sysId",
+  "label" : "sysId",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : "",
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "playbookExperienceId",
+  "label" : "playbookExperienceId",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : null,
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "selectedPlaybook",
+  "label" : "selectedPlaybook",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : "",
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "selectedStage",
+  "label" : "selectedStage",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : "",
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "selectedActivity",
+  "label" : "selectedActivity",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : "",
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "experience",
+  "label" : "experience",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : "",
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+} ]</props>
+        <required_translations>[ {
+  "message" : "Playbook",
+  "comment" : ""
+}, {
+  "message" : "Selected Playbook",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-28 17:34:25</sys_created_on>
+        <sys_id>bf1a79cb97a4021038e8fc90f053afa4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>License Agent - License</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sys_ux_macroponent_bf1a79cb97a4021038e8fc90f053afa4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-28 17:34:28</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=bf1a79cb97a4021038e8fc90f053afa4"/>
+</record_update>

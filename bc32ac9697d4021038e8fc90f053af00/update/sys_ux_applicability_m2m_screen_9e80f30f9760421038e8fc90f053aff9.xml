@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Walkup - Technician">54348a640f812010fe85fb8585767e7d</applicability>
+        <order>0</order>
+        <screen display_value="CSM Workers Landing Page">d280f30f9760421038e8fc90f053afca</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-29 02:11:46</sys_created_on>
+        <sys_id>9e80f30f9760421038e8fc90f053aff9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_9e80f30f9760421038e8fc90f053aff9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 02:11:46</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

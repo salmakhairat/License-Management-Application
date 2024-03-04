@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true" audit="true" db_object_id="094cccd69750021038e8fc90f053af5e" extends="task" label="Case" max_length="40" name="sn_customerservice_case" text_index="true" type="collection">
+        <element choice="1" label="Are they over 18 years of age?" max_length="40" name="x_1318047_license_age" type="choice">
+            <choice/>
+        </element>
+        <element label="Age Attachment" max_length="40" name="x_1318047_license_age_attachment" type="file_attachment"/>
+        <element choice="1" label="Are they a U.S Citizen?" max_length="40" name="x_1318047_license_citizen" type="choice">
+            <choice/>
+        </element>
+        <element label="Date of Birth" max_length="40" name="x_1318047_license_dob" type="glide_date"/>
+        <element label="First Name" max_length="50" name="x_1318047_license_first_name" type="string"/>
+        <element label="Identity Attachment" max_length="40" name="x_1318047_license_identity_attachment" type="file_attachment"/>
+        <element label="Last Name" max_length="50" name="x_1318047_license_last_name" type="string"/>
+        <element choice="1" label="Do they have a permit?" max_length="40" name="x_1318047_license_permit" type="choice">
+            <choice/>
+        </element>
+        <element label="Permit Attachment" max_length="40" name="x_1318047_license_permit_attachment" type="file_attachment"/>
+        <element choice="1" label="Did they keep the permit for 18 months?" max_length="40" name="x_1318047_license_permit_duration" type="choice">
+            <choice/>
+        </element>
+        <element label="Residency Attachment" max_length="40" name="x_1318047_license_residency_attachment" type="file_attachment"/>
+        <element choice="1" label="State" max_length="40" name="x_1318047_license_state_chosen" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Type" max_length="40" name="x_1318047_license_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Case" value="Case"/>
+                <element inactive_on_update="false" label="Complaint" value="Complaint"/>
+                <element inactive_on_update="false" label="License" value="License"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="User" max_length="32" name="x_1318047_license_user" read_only="true" reference="sys_user" type="reference"/>
+    </element>
+</database>

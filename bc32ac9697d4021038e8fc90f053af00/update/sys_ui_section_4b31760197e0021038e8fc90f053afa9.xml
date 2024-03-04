@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Case" section_id="4b31760197e0021038e8fc90f053afa9" sys_domain="global" table="x_1318047_license_license_form" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8f31760197e0021038e8fc90f053afac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8731760197e0021038e8fc90f053afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8331760197e0021038e8fc90f053afac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8331760197e0021038e8fc90f053afad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8f31760197e0021038e8fc90f053afaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8b31760197e0021038e8fc90f053afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8731760197e0021038e8fc90f053afac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8731760197e0021038e8fc90f053afad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8331760197e0021038e8fc90f053afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8f31760197e0021038e8fc90f053afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8b31760197e0021038e8fc90f053afac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8b31760197e0021038e8fc90f053afad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8731760197e0021038e8fc90f053afaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_id>8b31760197e0021038e8fc90f053afaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="x_1318047_license_license_form" sys_domain="global" view="3aa778757db1311076daf29f52070de0">4b31760197e0021038e8fc90f053afa9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Case</caption>
+            <header>false</header>
+            <name>x_1318047_license_license_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-22 16:27:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b31760197e0021038e8fc90f053afa9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1318047_license_license_form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+            <sys_update_name>sys_ui_section_4b31760197e0021038e8fc90f053afa9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-22 16:27:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">3aa778757db1311076daf29f52070de0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

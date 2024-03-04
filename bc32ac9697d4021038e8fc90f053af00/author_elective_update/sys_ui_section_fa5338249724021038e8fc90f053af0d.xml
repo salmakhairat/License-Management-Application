@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Case" section_id="fa5338249724021038e8fc90f053af0d" sys_domain="global" table="sn_customerservice_case" version="3" view="Complaint">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_id>fe5338249724021038e8fc90f053af25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_id>f25338249724021038e8fc90f053af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_id>f65338249724021038e8fc90f053af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_id>fa5338249724021038e8fc90f053af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_id>fe5338249724021038e8fc90f053af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_id>f25338249724021038e8fc90f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_id>f65338249724021038e8fc90f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_id>fa5338249724021038e8fc90f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_id>fe5338249724021038e8fc90f053af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Case</caption>
+            <header>false</header>
+            <name>sn_customerservice_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa5338249724021038e8fc90f053af0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_customerservice_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+            <sys_update_name>sys_ui_section_fa5338249724021038e8fc90f053af0d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Complaint" name="Complaint">ac02bca09724021038e8fc90f053af25</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>sys_ui_section_fa5338249724021038e8fc90f053af0d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Case" section_id="fa5338249724021038e8fc90f053af0d" sys_domain="global" table="sn_customerservice_case" version="3" view="Complaint"><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 18:00:25</sys_created_on><sys_id>fe5338249724021038e8fc90f053af25</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 18:00:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 18:00:25</sys_created_on><sys_id>f25338249724021038e8fc90f053af26</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 18:00:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assignment_group</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 18:00:25</sys_created_on><sys_id>f65338249724021038e8fc90f053af26</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 18:00:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>close_notes</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 18:00:25</sys_created_on><sys_id>fa5338249724021038e8fc90f053af26</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 18:00:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 18:00:25</sys_created_on><sys_id>fe5338249724021038e8fc90f053af26</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 18:00:25</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_on</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 18:00:25</sys_created_on><sys_id>f25338249724021038e8fc90f053af27</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 18:00:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_by</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 18:00:25</sys_created_on><sys_id>f65338249724021038e8fc90f053af27</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 18:00:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 18:00:25</sys_created_on><sys_id>fa5338249724021038e8fc90f053af27</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 18:00:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 18:00:25</sys_created_on><sys_id>fe5338249724021038e8fc90f053af27</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Case" display_value="Case" name="sn_customerservice_case" sys_domain="global" view="ac02bca09724021038e8fc90f053af25">fa5338249724021038e8fc90f053af0d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 18:00:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Case</caption><header>false</header><name>sn_customerservice_case</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 18:00:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fa5338249724021038e8fc90f053af0d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_customerservice_case</sys_name><sys_overrides/><sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package><sys_policy/><sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope><sys_update_name>sys_ui_section_fa5338249724021038e8fc90f053af0d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 18:00:25</sys_updated_on><sys_user/><title>false</title><view display_value="Complaint" name="Complaint">ac02bca09724021038e8fc90f053af25</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1029112371</payload_hash>
+        <record_name>Case</record_name>
+        <reverted_from/>
+        <source>7032ac9697d4021038e8fc90f053af03</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 18:00:25</sys_created_on>
+        <sys_id>765338249724021038e8fc90f053af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc7ad16580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 18:00:25</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>fa5338245f240210fc299c983bec8829</update_guid>
+        <update_guid_history>fa5338245f240210fc299c983bec8829:1029112371</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 20:21:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>443fa3be505c4375bfab82c9dfdc6d39</sys_id>
+        <sys_metadata>fa5338249724021038e8fc90f053af0d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent display_value="Sn Customerservice Case">094cccd69750021038e8fc90f053af5e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>sys_ui_section_fa5338249724021038e8fc90f053af0d</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_fa5338249724021038e8fc90f053af0d">765338249724021038e8fc90f053af2a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 20:21:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

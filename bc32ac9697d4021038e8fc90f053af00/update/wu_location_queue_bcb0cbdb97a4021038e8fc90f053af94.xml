@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="wu_location_queue">
+    <wu_location_queue action="INSERT_OR_UPDATE">
+        <access_type>internal_users</access_type>
+        <active>false</active>
+        <appointment_booking/>
+        <appt_routing_time>2</appt_routing_time>
+        <audio_file/>
+        <audio_playback>none</audio_playback>
+        <average_wait_time>1970-01-01 00:00:30</average_wait_time>
+        <away_image/>
+        <away_message>We are away at the moment. Please check back later.</away_message>
+        <check_in_greeting>Welcome! Please check in below to add yourself to the queue.</check_in_greeting>
+        <closed_message>We are closed. Please refer to the hours of operation.</closed_message>
+        <condition/>
+        <condition_mode>simple</condition_mode>
+        <condition_script><![CDATA[(function executeCondition(/* glide record */ current) {  
+	// customize condition logic here, return true or false  
+	return false;
+})(current);]]></condition_script>
+        <contact_types_for_appointment/>
+        <description/>
+        <display_technician>true</display_technician>
+        <eligible_booking_group/>
+        <enable_appt_booking_on_behalf>false</enable_appt_booking_on_behalf>
+        <enable_avatars>true</enable_avatars>
+        <enable_away_state>false</enable_away_state>
+        <enable_employee_support>true</enable_employee_support>
+        <enable_external_user_support>true</enable_external_user_support>
+        <enable_kiosk>false</enable_kiosk>
+        <enable_online_checkin>true</enable_online_checkin>
+        <evaluation_scope>document</evaluation_scope>
+        <external>false</external>
+        <external_id/>
+        <hold_time>5</hold_time>
+        <initial_agent_response>Thank you for contacting support. I am looking into your question now and will be with you shortly.</initial_agent_response>
+        <last_checkin>30</last_checkin>
+        <location display_value="MVA - Baltimore City">401f95fe9728021038e8fc90f053af91</location>
+        <location_image/>
+        <logo/>
+        <max_num_of_appointments>1</max_num_of_appointments>
+        <max_search_results>5</max_search_results>
+        <max_wait_time>1970-01-01 00:00:00</max_wait_time>
+        <max_wait_time_message>No agents are available to chat right now. Check back later.</max_wait_time_message>
+        <name>MVA Baltimore City</name>
+        <name_configuration>show_last_name</name_configuration>
+        <number>QUE00061</number>
+        <order>100</order>
+        <phone_number/>
+        <phone_number_label>Contact IT Support</phone_number_label>
+        <queue_display_limit>5</queue_display_limit>
+        <queue_logo/>
+        <record_producer display_value="Create Incident">3f1dd0320a0a0b99000a53f7604a2ef9</record_producer>
+        <schedule display_value="8-5 weekdays excluding holidays">090eecae0a0a0b260077e1dfa71da828</schedule>
+        <search_config display_value="Incident Deflection">091fa3d3c37221003d2ae219cdba8f0e</search_config>
+        <service_channel display_value="Walk-up">48e395bc3b102300f1612c2b54efc46f</service_channel>
+        <short_description/>
+        <show_kiosk>false</show_kiosk>
+        <show_wait_time>false</show_wait_time>
+        <stockroom/>
+        <subflow/>
+        <sys_class_name>wu_location_queue</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-29 17:23:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>bcb0cbdb97a4021038e8fc90f053af94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MVA Baltimore City</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>wu_location_queue_bcb0cbdb97a4021038e8fc90f053af94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 17:23:28</sys_updated_on>
+        <target_wait_time/>
+        <threshold_notification>1</threshold_notification>
+        <use_condition>true</use_condition>
+        <wait_time_options>2</wait_time_options>
+        <welcome_message>Welcome to the Tech Lounge</welcome_message>
+    </wu_location_queue>
+</record_update>

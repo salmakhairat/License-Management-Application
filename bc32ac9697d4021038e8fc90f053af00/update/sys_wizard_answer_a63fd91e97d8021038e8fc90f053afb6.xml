@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>License Form</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>License Form</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">4b8574397d31311076daf29f52070d17</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 21:25:45</sys_created_on>
+        <sys_id>a63fd91e97d8021038e8fc90f053afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>License Form</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sys_wizard_answer_a63fd91e97d8021038e8fc90f053afb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 21:25:45</sys_updated_on>
+        <table/>
+        <target_url>x_1318047_license_license_form.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

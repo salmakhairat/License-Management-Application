@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Permit Form">ce8c5b9a972c821038e8fc90f053afa9</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-29 13:00:22</sys_created_on>
+        <sys_id>57f406db9760021038e8fc90f053afaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Permit Form.SNC External</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_57f406db9760021038e8fc90f053afaf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 13:00:22</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_57f406db9760021038e8fc90f053afaf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Permit Form">ce8c5b9a972c821038e8fc90f053afa9</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-29 13:00:22</sys_created_on><sys_id>57f406db9760021038e8fc90f053afaf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Permit Form.SNC External</sys_name><sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package><sys_policy/><sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_57f406db9760021038e8fc90f053afaf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-29 13:00:22</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-1988326787</payload_hash>
+        <record_name>Permit Form.SNC External</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-29 13:01:28</sys_created_on>
+        <sys_id>d3358e9b9760021038e8fc90f053af73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18df4f49cbc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 13:01:28</sys_updated_on>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>93358e9bcf600210e623ca2de9645a73</update_guid>
+        <update_guid_history>93358e9bcf600210e623ca2de9645a73:-1988326787</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Permit Form.SNC External">53358adb9760021038e8fc90f053af2b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-29 13:01:28</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>6b4fdf9bbd924e8a825b2e6a8889e5d1</sys_id>
+        <sys_metadata>57f406db9760021038e8fc90f053afaf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Permit Form.SNC External</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_57f406db9760021038e8fc90f053afaf</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_57f406db9760021038e8fc90f053afaf">d3358e9b9760021038e8fc90f053af73</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 13:01:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

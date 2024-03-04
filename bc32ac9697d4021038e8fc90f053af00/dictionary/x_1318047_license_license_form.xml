@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a63fd91e97d8021038e8fc90f053afb4" extends="sn_customerservice_case" label="License Form" max_length="40" name="x_1318047_license_license_form" type="collection">
+        <element choice="3" display="true" label="Correct Age" max_length="40" name="correct_age" type="boolean">
+            <choice/>
+        </element>
+        <element choice="3" label="State Chosen" mandatory="true" max_length="50" name="state_chosen" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Maryland" sequence="0" value="Maryland"/>
+                <element inactive="true" inactive_on_update="true" label="Virginia" sequence="0" value="Virginia"/>
+            </choice>
+        </element>
+        <element label="State Selected" max_length="50" name="state_selected" type="string"/>
+    </element>
+</database>

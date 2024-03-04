@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_assignment">
+    <sysrule_assignment action="DELETE">
+        <active>true</active>
+        <condition table="wu_appointment">short_descriptionLIKEpermit^EQ<item endquery="false" field="short_description" goto="false" newquery="false" operator="LIKE" or="false" value="permit"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <group display_value="Licensing Workers" name="Licensing Workers">e2e71cf697e0021038e8fc90f053af49</group>
+        <match_conditions>ALL</match_conditions>
+        <name>Assign License Worker Permit</name>
+        <order>100</order>
+        <script>/**&#13;
+* Example:&#13;
+* The following script requires personalizing the instance to add the Malware category and the Security assignment group.&#13;
+* if (current.category == "Hardware")&#13;
+*    current.assignment_group.setDisplayValue("Hardware"); &#13;
+* else if (current.category == "Software")&#13;
+*    current.assignment_group.setDisplayValue("Software");&#13;
+* else if (current.category == "Malware")&#13;
+*    current.assignment_group.setDisplayValue("Security");	&#13;
+*&#13;
+* Another Example:&#13;
+* Release Planning Example, which assigns the last person assigned to a release to the current release.&#13;
+* current.release.product.service.assigned_to;&#13;
+*/</script>
+        <sys_class_name>sysrule_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-28 02:02:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d5a4623697ac021038e8fc90f053af42</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Assign License Worker Permit</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sysrule_assignment_d5a4623697ac021038e8fc90f053af42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 14:59:38</sys_updated_on>
+        <table>wu_appointment</table>
+        <user display_value="Mona Lisa">54c684d4d773020058c92cf65e6103af</user>
+    </sysrule_assignment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>sysrule_assignment_d5a4623697ac021038e8fc90f053af42</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_assignment"><sysrule_assignment action="INSERT_OR_UPDATE"><active>true</active><condition table="wu_appointment">short_descriptionLIKEpermit^EQ<item endquery="false" field="short_description" goto="false" newquery="false" operator="LIKE" or="false" value="permit"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description/><group display_value="Licensing Workers" name="Licensing Workers">e2e71cf697e0021038e8fc90f053af49</group><match_conditions>ALL</match_conditions><name>Assign License Worker Permit</name><order>100</order><script>/**&#13;
+* Example:&#13;
+* The following script requires personalizing the instance to add the Malware category and the Security assignment group.&#13;
+* if (current.category == "Hardware")&#13;
+*    current.assignment_group.setDisplayValue("Hardware"); &#13;
+* else if (current.category == "Software")&#13;
+*    current.assignment_group.setDisplayValue("Software");&#13;
+* else if (current.category == "Malware")&#13;
+*    current.assignment_group.setDisplayValue("Security");	&#13;
+*&#13;
+* Another Example:&#13;
+* Release Planning Example, which assigns the last person assigned to a release to the current release.&#13;
+* current.release.product.service.assigned_to;&#13;
+*/</script><sys_class_name>sysrule_assignment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-28 02:02:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d5a4623697ac021038e8fc90f053af42</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Assign License Worker Permit</sys_name><sys_overrides/><sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package><sys_policy/><sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope><sys_update_name>sysrule_assignment_d5a4623697ac021038e8fc90f053af42</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-29 14:59:38</sys_updated_on><table>wu_appointment</table><user display_value="Mona Lisa">54c684d4d773020058c92cf65e6103af</user></sysrule_assignment></record_update>]]></payload>
+        <payload_hash>1317848634</payload_hash>
+        <record_name>Assign License Worker Permit</record_name>
+        <reverted_from/>
+        <source>7032ac9697d4021038e8fc90f053af03</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-29 14:59:38</sys_created_on>
+        <sys_id>52406edf97e0021038e8fc90f053af3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18df560cc280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 14:59:38</sys_updated_on>
+        <type>Assignment Rule</type>
+        <update_guid>d6406edfcde0021060ab6d55360e5d3c</update_guid>
+        <update_guid_history>d6406edfcde0021060ab6d55360e5d3c:1317848634,1eae5e5fe3e002107beb1d3d10f844c5:1463951312,c8c4aaf28dac0210eca12f2320a90c13:239950800</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-29 19:03:39</sys_created_on>
+        <sys_db_object display_value="" name="sysrule_assignment">sysrule_assignment</sys_db_object>
+        <sys_id>0103cf4082e547a88aecc4ec7ccf6240</sys_id>
+        <sys_metadata>d5a4623697ac021038e8fc90f053af42</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assign License Worker Permit</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent display_value="Wu Appointment">e6c23fe69720021038e8fc90f053afd8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>sysrule_assignment_d5a4623697ac021038e8fc90f053af42</sys_update_name>
+        <sys_update_version display_value="sysrule_assignment_d5a4623697ac021038e8fc90f053af42">52406edf97e0021038e8fc90f053af3d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 19:03:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

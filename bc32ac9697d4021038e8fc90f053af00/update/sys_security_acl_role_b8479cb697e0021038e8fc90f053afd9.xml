@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 15:44:00</sys_created_on>
+        <sys_id>b8479cb697e0021038e8fc90f053afd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.1318047.lp.*.snc_internal</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_security_acl display_value="x.1318047.lp.*">e96add9697d8021038e8fc90f053af85</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b8479cb697e0021038e8fc90f053afd9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 15:44:00</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>9d37987697a0021038e8fc90f053afc6</transaction_id>
+    </sys_security_acl_role>
+</record_update>

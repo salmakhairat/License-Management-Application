@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Driver's Exam Criteria" section_id="8dc7574b97ec021038e8fc90f053af00" sys_domain="global" table="wu_appointment" version="3" view="Workspace2">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1318047_license_vision_test</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-29 00:23:33</sys_created_on>
+            <sys_id>8dc7574b97ec021038e8fc90f053af02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Driver's Exam Criteria" display_value="Driver's Exam Criteria" name="wu_appointment" sys_domain="global" view="b27f964f97a8021038e8fc90f053af42">8dc7574b97ec021038e8fc90f053af00</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-29 00:23:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Driver's Exam Criteria</caption>
+            <header>false</header>
+            <name>wu_appointment</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-29 00:23:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dc7574b97ec021038e8fc90f053af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>wu_appointment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+            <sys_update_name>sys_ui_section_8dc7574b97ec021038e8fc90f053af00</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-29 00:23:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace2" name="Workspace2">b27f964f97a8021038e8fc90f053af42</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

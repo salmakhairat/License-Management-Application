@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>x_1318047_license_dob</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-28 00:55:31</sys_created_on>
+        <sys_id>e7751ab2976c021038e8fc90f053afc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1318047_license_dob</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sys_ui_policy_action_e7751ab2976c021038e8fc90f053afc4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-28 00:55:31</sys_updated_on>
+        <table>sn_gsm_government_service_case</table>
+        <ui_policy display_value="Make License fields read only">a7751ab2976c021038e8fc90f053af63</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

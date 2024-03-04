@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="License Form">65b03112975c021038e8fc90f053af13</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-29 12:58:14</sys_created_on>
+        <sys_id>4484869b9760021038e8fc90f053af5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>License Form.Users with 'wm_agent' role</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_4484869b9760021038e8fc90f053af5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 12:58:14</sys_updated_on>
+        <user_criteria display_value="Users with 'wm_agent' role">1491e0960b091300c9c86c9037673a7f</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

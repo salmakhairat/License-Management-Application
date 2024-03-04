@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="License Form">65b03112975c021038e8fc90f053af13</catalog_item>
+        <catalog_variable>IO:16b85db49760021038e8fc90f053af38</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-22 16:10:06</sys_created_on>
+        <sys_id>1a4d2ec997a0021038e8fc90f053af3a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1318047_license_residency_attachment</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_1a4d2ec997a0021038e8fc90f053af3a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-22 16:14:41</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'x_1318047_license_residency_attachment' mandatory &amp; visible depending on 'x_1318047_license_permit_duration'">1a4d2ec997a0021038e8fc90f053af38</ui_policy>
+        <variable>x_1318047_license_residency_attachment</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>catalog_ui_policy_action_1a4d2ec997a0021038e8fc90f053af3a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="License Form">65b03112975c021038e8fc90f053af13</catalog_item><catalog_variable>IO:16b85db49760021038e8fc90f053af38</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-22 16:10:06</sys_created_on><sys_id>1a4d2ec997a0021038e8fc90f053af3a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1318047_license_residency_attachment</sys_name><sys_package/><sys_policy/><sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope><sys_update_name>catalog_ui_policy_action_1a4d2ec997a0021038e8fc90f053af3a</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-02-22 16:14:41</sys_updated_on><table/><ui_policy display_value="Make 'x_1318047_license_residency_attachment' mandatory &amp; visible depending on 'x_1318047_license_permit_duration'">1a4d2ec997a0021038e8fc90f053af38</ui_policy><variable>x_1318047_license_residency_attachment</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-8942286</payload_hash>
+        <record_name>x_1318047_license_residency_attachment</record_name>
+        <reverted_from/>
+        <source>b05e6e0d97a0021038e8fc90f053af78</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-22 16:14:41</sys_created_on>
+        <sys_id>955eae0d97a0021038e8fc90f053afc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dd198ff390000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-22 16:14:41</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>d95eae0d46a00210d55657c71d684cc1</update_guid>
+        <update_guid_history>d95eae0d46a00210d55657c71d684cc1:-8942286,5d5eae0dbba002104a178fade20a0abe:1636749533</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1318047_license_residency_attachment">99adce439768021038e8fc90f053afd3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-28 18:59:43</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>27a854a342d0420e8b0a7b16679cb201</sys_id>
+        <sys_metadata>1a4d2ec997a0021038e8fc90f053af3a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1318047_license_residency_attachment</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_1a4d2ec997a0021038e8fc90f053af3a</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_1a4d2ec997a0021038e8fc90f053af3a">955eae0d97a0021038e8fc90f053afc2</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-28 18:59:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

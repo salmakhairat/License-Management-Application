@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="License Form">250091669750021038e8fc90f053af6c</sc_cat_item>
+        <sc_catalog display_value="License">81cf45a69750021038e8fc90f053af44</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-14 14:58:25</sys_created_on>
+        <sys_id>9220d9a69750021038e8fc90f053af0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>License.License Form</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_9220d9a69750021038e8fc90f053af0d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-14 14:58:25</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>sc_cat_item_catalog_9220d9a69750021038e8fc90f053af0d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="License Form">250091669750021038e8fc90f053af6c</sc_cat_item><sc_catalog display_value="License">81cf45a69750021038e8fc90f053af44</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-14 14:58:25</sys_created_on><sys_id>9220d9a69750021038e8fc90f053af0d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>License.License Form</sys_name><sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package><sys_policy/><sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope><sys_update_name>sc_cat_item_catalog_9220d9a69750021038e8fc90f053af0d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-14 14:58:25</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1589555524</payload_hash>
+        <record_name>License.License Form</record_name>
+        <reverted_from/>
+        <source>7032ac9697d4021038e8fc90f053af03</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-14 14:58:25</sys_created_on>
+        <sys_id>d620d9a69750021038e8fc90f053af10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18da8204d4e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-14 14:58:25</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>1e20d9a6d950021062abbf6545a64d0f</update_guid>
+        <update_guid_history>1e20d9a6d950021062abbf6545a64d0f:1589555524</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="License.License Form">f6b01de69750021038e8fc90f053afac</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-14 15:00:54</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>053c1a88a0774c5781cfa2f00b54b751</sys_id>
+        <sys_metadata>9220d9a69750021038e8fc90f053af0d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>License.License Form</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent display_value="">250091669750021038e8fc90f053af6c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_9220d9a69750021038e8fc90f053af0d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_9220d9a69750021038e8fc90f053af0d">d620d9a69750021038e8fc90f053af10</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-14 15:00:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

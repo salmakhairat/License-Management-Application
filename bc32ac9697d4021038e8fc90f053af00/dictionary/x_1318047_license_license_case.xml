@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1365a41e97d4021038e8fc90f053af6f" extends="sn_customerservice_case" label="License Case" max_length="40" name="x_1318047_license_license_case" text_index="true" type="collection"/>
+</database>

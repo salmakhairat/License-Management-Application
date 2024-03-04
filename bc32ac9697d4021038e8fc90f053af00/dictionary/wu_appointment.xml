@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e6c23fe69720021038e8fc90f053afd8" extends="task" label="Walk-up Appointment" max_length="40" name="wu_appointment" type="collection">
+        <element label="Permit Exam" max_length="255" name="x_1318047_license_permit_exam" type="integer"/>
+        <element choice="1" label="Road Test" max_length="40" name="x_1318047_license_road_test" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pass" sequence="0" value="Pass"/>
+                <element inactive_on_update="false" label="Fail" sequence="1" value="Fail"/>
+            </choice>
+        </element>
+        <element choice="1" label="Vision Test" max_length="40" name="x_1318047_license_vision_test" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pass" sequence="0" value="Pass"/>
+                <element inactive_on_update="false" label="Fail" sequence="1" value="Fail"/>
+            </choice>
+        </element>
+    </element>
+</database>

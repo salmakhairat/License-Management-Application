@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="License Form">65b03112975c021038e8fc90f053af13</sc_cat_item>
+        <sc_category display_value="Forms">2d105da69750021038e8fc90f053afdd</sc_category>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">f430b99e971c021038e8fc90f053af6c</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 22:58:14</sys_created_on>
+        <sys_id>11643dd2975c021038e8fc90f053af5e</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>License Form</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_update_name>sp_instance_link_11643dd2975c021038e8fc90f053af5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-15 17:02:46</sys_updated_on>
+        <title>License Form</title>
+        <type>sc_cat_item</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=11643dd2975c021038e8fc90f053af5e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="License Management">bc32ac9697d4021038e8fc90f053af00</application>
+        <file_path/>
+        <instance_id>300d91661b7679146a85eb9b2d4bcb5b</instance_id>
+        <instance_name>dev231594</instance_name>
+        <name>sp_instance_link_11643dd2975c021038e8fc90f053af5e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item display_value="License Form"&gt;65b03112975c021038e8fc90f053af13&lt;/sc_cat_item&gt;&lt;sc_category display_value="Forms"&gt;2d105da69750021038e8fc90f053afdd&lt;/sc_category&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;f430b99e971c021038e8fc90f053af6c&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-02-13 22:58:14&lt;/sys_created_on&gt;&lt;sys_id&gt;11643dd2975c021038e8fc90f053af5e&lt;/sys_id&gt;&lt;sys_mod_count&gt;13&lt;/sys_mod_count&gt;&lt;sys_name&gt;License Form&lt;/sys_name&gt;&lt;sys_package display_value="License Management" source="x_1318047_license"&gt;bc32ac9697d4021038e8fc90f053af00&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="License Management"&gt;bc32ac9697d4021038e8fc90f053af00&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_11643dd2975c021038e8fc90f053af5e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-02-15 17:02:46&lt;/sys_updated_on&gt;&lt;title&gt;License Form&lt;/title&gt;&lt;type&gt;sc_cat_item&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=11643dd2975c021038e8fc90f053af5e"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1971468878</payload_hash>
+        <record_name>License Form</record_name>
+        <reverted_from/>
+        <source>7032ac9697d4021038e8fc90f053af03</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-15 17:02:47</sys_created_on>
+        <sys_id>71363af29750021038e8fc90f053af26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dadb883120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-15 17:02:47</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>f5363af2b250021031814ef6fcfd5725</update_guid>
+        <update_guid_history>f5363af2b250021031814ef6fcfd5725:-1971468878,edc662365410021085dc0f22e0211fe6:804083385,06966236a5100210cb201282502834b6:-1664735938,336626f21c100210dd0a1bd6923d0545:-127202692,fa658daafd100210498cca96e9aecdd1:1459417366,fa658daafd100210498cca96e9aecdd1:1459417366,80de3dde315c0210b82f833dbbb82848:1262522879,ac593d5aa25c0210d3c87d3e24a576e2:-63137051,2729715ae55c02104b3fa830d2ecde8b:-1042145541,08b8391ab15c0210e9071a46c9139a08:-1626623759,5748391ad25c021071ed7e08a096c702:-2094788117,da28f556b75c0210596a68af7a98916d:-2029847321,09e43156a95c021000c6ab904095635e:-2094788117,e294b916175c021036751c98786bb6df:1097254524,dd643dd29c5c021047ce51830a56355f:-1116285693</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="License Form">85f8fe3a9750021038e8fc90f053afaa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-15 17:14:45</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>a3c7377acd4c41e49a36bf55e80fd190</sys_id>
+        <sys_metadata>11643dd2975c021038e8fc90f053af5e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>License Form</sys_name>
+        <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
+        <sys_scope_delete display_value="">3f157ea38f534c2c9cd17b538a957061</sys_scope_delete>
+        <sys_update_name>sp_instance_link_11643dd2975c021038e8fc90f053af5e</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_11643dd2975c021038e8fc90f053af5e">71363af29750021038e8fc90f053af26</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-15 17:14:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
