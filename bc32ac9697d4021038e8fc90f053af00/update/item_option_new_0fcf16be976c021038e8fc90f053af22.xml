@@ -23,11 +23,12 @@
         <example_text/>
         <field>x_1318047_license_height</field>
         <global>false</global>
-        <help_tag>Format</help_tag>
-        <help_text>Example: 5'7"</help_text>
+        <help_tag>More information</help_tag>
+        <help_text>Please enter your height in feet and inches</help_text>
         <hidden>false</hidden>
         <include_none>false</include_none>
-        <instructions/>
+        <instructions><![CDATA[<p>Example: 5&#39;7&#34;</p>
+<p>The apostrophe (&#39;) represents feet and the quote (&#34;) represents inches</p>]]></instructions>
         <layout>normal</layout>
         <list_table/>
         <lookup_label/>
@@ -77,14 +78,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-28 18:57:21</sys_created_on>
         <sys_id>0fcf16be976c021038e8fc90f053af22</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Height</sys_name>
         <sys_package display_value="License Management" source="x_1318047_license">bc32ac9697d4021038e8fc90f053af00</sys_package>
         <sys_policy/>
         <sys_scope display_value="License Management">bc32ac9697d4021038e8fc90f053af00</sys_scope>
         <sys_update_name>item_option_new_0fcf16be976c021038e8fc90f053af22</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-02-28 18:59:45</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-06 14:22:29</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
